@@ -1,0 +1,1 @@
+# kando-pelda-netlify-auth
